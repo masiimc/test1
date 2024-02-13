@@ -1,1 +1,4 @@
 test.html
+index.html
+*.txt
+# !a.txt

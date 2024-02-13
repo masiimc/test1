@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test.html
 *.txt
 !c.txt
+=======
+test.html
+>>>>>>> 432720d (add .gitignore)
